@@ -6,6 +6,30 @@ Welcome! 👋
 This project is a labor of love for data, technology, and India's digital transformation. Dive in to explore, analyze, and visualize the story of digital payments across the country—powered by real PhonePe Pulse data and built for curious minds like yours.
 
 ---
+## ✅ What Problem Does This Project Solve?
+
+PhonePe Pulse provides vast payment transaction data, but it’s distributed in raw JSON files — which are not easy to analyze directly. Without a user-friendly way to explore this data, it’s hard to answer questions like:
+- Which states or districts lead in digital payment adoption?
+- How are transaction volumes and values changing over time?
+- Which transaction types are growing the fastest, and where?
+- Where are the untapped regions with growth potential?
+
+This dashboard solves that by transforming raw, scattered data into an intuitive, interactive interface.
+
+---
+
+## 🎯 Why This Project Is Needed
+
+A streamlined dashboard makes it easy for:
+- **Businesses & Financial Services:** Identify high-growth digital payment markets and guide expansion strategies.
+- **Policymakers & Researchers:** Track the progress of digital financial inclusion at multiple geographic levels.
+- **Data Analysts & Students:** Explore real payment behavior trends without wrangling raw data manually.
+- **General Users:** Understand how digital payments shape India’s economy in a visual, interactive way.
+
+By bridging the gap between complex data and clear insight, this project helps stakeholders make smarter, data-driven decisions.
+
+---
+
 
 ---
 
